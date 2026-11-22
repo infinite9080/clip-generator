@@ -1,0 +1,6 @@
+{
+  "name": "HypeCut AI",
+  "description": "Free, self-hosted automated Twitch highlight generator with real-time chat hype detection, local FFmpeg video editing, local Ollama AI metadata, and YouTube Data API v3 publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
